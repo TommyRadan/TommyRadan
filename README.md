@@ -16,10 +16,6 @@ Freelance Software Engineer/Consultant based in Croatia. My main passion is Embe
 <img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="Bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
 <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-
-<br/>
----
-
 <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" alt="Cmake" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cmake.svg" />
@@ -27,10 +23,6 @@ Freelance Software Engineer/Consultant based in Croatia. My main passion is Embe
 <img align="left" alt="Raspberry Pi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />
 <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnu.svg" />
 <img align="left" alt="Bluetooth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bluetooth.svg" />
-
-<br/>
----
-
 <img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="22px" style="margin-right: 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
