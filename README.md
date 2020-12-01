@@ -18,7 +18,7 @@ Freelance Software Engineer/Consultant based in Croatia. My main passion is Embe
 <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
 <br/>
-<br/>
+---
 
 <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
@@ -29,7 +29,7 @@ Freelance Software Engineer/Consultant based in Croatia. My main passion is Embe
 <img align="left" alt="Bluetooth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bluetooth.svg" />
 
 <br/>
-<br/>
+---
 
 <img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
